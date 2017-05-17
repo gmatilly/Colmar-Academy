@@ -114,6 +114,8 @@ nav span {
 .button span {
   font-size: 1.3rem;
   line-height: 1.5rem;
+  padding: 1rem 9.5rem 1rem 9.5rem;
+
 }
 
 .button a {
