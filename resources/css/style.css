@@ -120,7 +120,7 @@ nav span {
 
 .info {
   display: flex;
-  padding-top: 1rem;
+  padding: 1rem 0;
   border-bottom: .0625rem solid lightgray;
 }
 
