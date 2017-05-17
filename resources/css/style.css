@@ -102,8 +102,6 @@ nav span {
   margin: 0 0 2.5rem 2.5rem;
 }
 
-/* Why won't cursor appear over entire button and not just words? Also, want to add hover */
-
 .button {
   background-color: #404040;
   padding: 1rem 9.5rem 1rem 9.5rem;
@@ -114,7 +112,6 @@ nav span {
   color: white;
   font-size: 1.3rem;
 }
-
 
 /* INFORMATION SECTION */
 
@@ -128,7 +125,6 @@ nav span {
   max-width: 60%;
   height: auto;
   margin: 2rem 0 2rem 1.5rem;
-  padding-bottom: 2rem;
 }
 
 .infopic img {
@@ -152,6 +148,7 @@ nav span {
   color: #404040;
   font-size: 1.25rem;
   line-height: 1.35;
+  max-width: 60%;
 }
 
 .info-section-one span {
