@@ -109,19 +109,19 @@ nav span {
   max-width: 600px;
   margin: 0 0 0 2.5rem;
   border-radius: 5px;
+  padding: 1rem 9.5rem 1rem 9.5rem;
+}
+
+.button a { 
+  color: white;
 }
 
 .button span {
   font-size: 1.3rem;
   line-height: 1.5rem;
-  padding: 1rem 9.5rem 1rem 9.5rem;
-
 }
 
-.button a {
-  padding: 1rem 9.5rem 1rem 9.5rem;
-  color: white;
-}
+
 
 /* INFORMATION SECTION */
 
