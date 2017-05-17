@@ -111,11 +111,14 @@ nav span {
   border-radius: 5px;
 }
 
+.button span {
+  font-size: 1.3rem;
+  line-height: 1.5rem;
+}
+
 .button a {
   padding: 1rem 9.5rem 1rem 9.5rem;
   color: white;
-  font-size: 1.3rem;
-  line-height: 1.5rem;
 }
 
 /* INFORMATION SECTION */
