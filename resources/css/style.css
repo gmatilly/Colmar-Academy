@@ -1,7 +1,7 @@
 html {
   font-size: 16px;
   line-height: 1.5;
-  font-family: Helvetica, sans-serif;
+  font-family: "Nobile", sans-serif;
 }
 
 h2 {
@@ -31,12 +31,14 @@ header {
 }
 
 .colmar {
+  font-family: 'Quattrocento Sans', sans-serif;
   font-weight: 900;
   color: #404040;
   padding-left: 0.5rem;
 }
 
 .academy {
+  font-family: 'Quattrocento Sans', sans-serif;
   font-weight: 400;
   color: gray;
 }
