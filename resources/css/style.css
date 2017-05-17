@@ -106,16 +106,14 @@ nav span {
 
 .button {
   padding: 1rem 9.5rem 1rem 9.5rem;
+  background-color: #404040;
   max-width: 600px;
   border-radius: 5px;
 }
 
 .button span {
-  background-color: #404040;
-  max-width: 600px;
   margin: 0 0 0 2.5rem;
   line-height: 1.5rem;
-  border-radius: 5px;
 }
 
 .button a {
